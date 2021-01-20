@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\bin\Debug\KNN-Intelektika.exe.config
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\bin\Debug\KNN-Intelektika.exe
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\bin\Debug\KNN-Intelektika.pdb
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN-Intelektika.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN_Intelektika.Form1.resources
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN_Intelektika.Properties.Resources.resources
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN-Intelektika.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN-Intelektika.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN-Intelektika.exe
+C:\Users\Andrew\source\repos\KNN-Intelektika\KNN-Intelektika\obj\Debug\KNN-Intelektika.pdb
