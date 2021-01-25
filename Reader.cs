@@ -26,7 +26,8 @@ namespace KNN_Intelektika
                 string[] help = lines[i].Split(',');
                 myClass.x = Convert.ToInt32(help[0]);
                 myClass.y = Convert.ToInt32(help[1]);
-                myClass.clas = help[2];
+                myClass.game = help[2];
+                myClass.clas = help[3];
                 dataset.Add(myClass);
             }
             return dataset;
@@ -36,6 +37,7 @@ namespace KNN_Intelektika
     {
         public int x { get; set; }
         public int y { get; set; }
+        public string game { get; set; }   
         public string clas { get; set; }
         public double res { get; set; }
     }

@@ -1,6 +1,28 @@
-0,0,+
-0,15,+
-15,0,+
-5,5,-
-5,20,-
-20,5,-
+206,116,Basketball,Point Guard
+191,84,Basketball,Point Guard
+198,98,Basketball,Shooting Guard
+198,94,Basketball,Shooting Guard
+206,113,Basketball,Small Forward
+206,100,Basketball,Small Forward
+211,113,Basketball,Power Forward
+206,117,Basketball,Power Forward
+218,121,Basketball,Center
+216,147,Basketball,Center
+190,93,Football,Goalkeeper
+196,90,Football,Goalkeeper
+178,75,Football,Right-back
+193,73,Football,Right-back
+191,82,Football,Centre-back
+184,82,Football,Centre-back
+181,81,Football,Left-back
+178,73,Football,Left-back
+165,60,Football,Central midfielder
+189,76,Football,Central midfielder
+189,82,Football,Attacking midfielder
+176,77,Football,Attacking midfielder
+176,66,Football,Winger
+175,74,Football,Winger
+170,72,Football,Forward
+189,85,Football,Forward
+195,95,Football,Striker
+184,80,Football,Striker
